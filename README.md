@@ -1,2 +1,27 @@
-# car-supplier-management-system
-A Java Swing desktop application for managing vehicle inventory, supplier records, and purchase requests through a modern and user-friendly interface.
+# Car Supplier Management System
+
+A Java Swing desktop application designed for vehicle inventory management, supplier administration, and purchase request handling.
+
+## Features
+
+- Vehicle Inventory Management
+- Supplier Management
+- Purchase Request System
+- Car Brand & Model Browsing
+- Interactive Dashboard
+- User-Friendly Interface
+- Multi-Screen Navigation
+
+## Technologies
+
+- Java
+- Java Swing
+- OOP (Object-Oriented Programming)
+
+## Screenshots
+
+Add project screenshots here.
+
+## Author
+
+Omar Shawqi
