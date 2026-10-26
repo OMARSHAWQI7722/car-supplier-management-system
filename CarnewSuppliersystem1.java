@@ -257,7 +257,7 @@ public class CarnewSuppliersystem1 extends JFrame {
 
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> {
-            CarnewSuppliersystem frame = new CarnewSuppliersystem();
+            CarnewSuppliersystem1 frame = new CarnewSuppliersystem1();
             frame.setVisible(true);
         });
     }
